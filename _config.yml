@@ -26,6 +26,9 @@ theme: minima
 baseurl: ""
 url: "https://kopaszsop.github.io"
 
+header_pages:
+  - about.md
+  
 # Ha nem akarod, töröld vagy hagyd üresen
 # email: "felesleges@jatszoter.cc"
 
