@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Kezdőlap
+permalink: /
 ---
+
+# Kopaszsop
+
+Ez egy Jekyll teszt oldal GitHub Pages-en.
+
+## Projektek
+- hamarosan...
+
+## Linkek
+- GitHub: https://github.com/kopaszsop
