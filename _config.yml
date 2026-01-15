@@ -27,7 +27,7 @@ baseurl: ""
 url: "https://kopaszsop.github.io"
 
 # Ha nem akarod, töröld vagy hagyd üresen
-email: "felesleges@jatszoter.cc"
+# email: "felesleges@jatszoter.cc"
 
 # social ikonok (ha nem kellenek, töröld ezeket a sorokat)
 github_username: kopaszsop
@@ -46,7 +46,7 @@ github_username: kopaszsop
 #github_username:  jekyll
 
 # Build settings
-#theme: minima
+# theme: minima
 # plugins:
 #  - jekyll-feed
 
